@@ -1,0 +1,16 @@
+>>> kg = 540 * 7
+>>> summa = kg * 1200
+>>> print("540 ǵarbız, jámi", kg, "kg, summası", s\
+umma, "sum")                                       540 ǵarbız, jámi 3780 kg, summası 4536000 sum
+>>>
+
+
+
+
+
+
+
+
+
+
+

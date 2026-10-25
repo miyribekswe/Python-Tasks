@@ -1,0 +1,19 @@
+
+>>>tagam = input("Ne buyırtpa etemiz?: ")         >>> tagam = input("Ne buyırtpa etemiz?: ")         Ne buyırtpa etemiz?: Somsa
+>>> san = input("Neshewin alasız?: ")              Neshewin alasız?: 1
+>>> print("Buyırtpa qabıl etildi:", tagam, san, "e\
+w,", adres)
+Buyırtpa qabıl etildi: Somsa 1 ew,
+>>>
+
+
+
+
+
+
+
+
+
+
+
+

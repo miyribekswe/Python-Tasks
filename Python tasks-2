@@ -1,0 +1,14 @@
+alma = 1365
+>>> quti = 12                                      >>> print("Quti toldı:", alma // quti)             Quti toldı: 113
+>>> print("Alma qaldı:", alma % quti)              Alma qaldı: 9
+
+
+
+
+
+
+
+
+
+
+
